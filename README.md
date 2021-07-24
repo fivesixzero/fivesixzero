@@ -45,6 +45,7 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 - ☕️ Java heap dump and stack trace analysis
 - 🍇 Raspberry Pi hacking and development
 - 👾 EVE Online 3rd party app development
+- 🧙🏼‍♂️ IoT device hacking
 
 ## Are you a recruiter?
 
