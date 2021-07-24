@@ -18,6 +18,7 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 ### Always Learning More
 
 - 🐍 Object-oriented development with Java, Python, and other languages
+- 🗺 Unit and integration testing for a happier, more peaceful world
 - 🚀 Historical rocketry and space exploration
 - 🔬 Photography and visual design
 - 🙏🏼 Gratitude
@@ -38,7 +39,7 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 
 ### Other Projects/Interests
 
-- 📜 Automating life's repetitive trivialities with `bash`/Python scripts and cron jobs
+- 📜 Automating repetitive tasks with `bash`/Python scripts
 - ⚡️ USB-C power delivery device analysis/hacking
 - 🛠 Microcontroller development with Arduino
 - ☕️ Java heap dump and stack trace analysis
