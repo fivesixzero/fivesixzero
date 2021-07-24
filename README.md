@@ -10,6 +10,7 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 ### Currently Learning
 
 - 🛠 Repair/reuse of electronics lab and test equipment
+- 🪛 PCB (printed circuit board) design/layout
 - 👨🏻‍🔬 GPIB/SCPI lab/test instrument control
 - 💡 Analog electronics
 - 🤖 Digital logic
