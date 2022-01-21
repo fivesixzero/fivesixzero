@@ -28,6 +28,7 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 - 🖥 Open source software development
   - Contributing fixes/enhacenents to projects I actively use
   - Creating and improving CircuitPython/Micropython drivers/modules
+  - CircuitPython driver refactor for ADS9960 i2c light/proximity/gesture sensor: [`Adafruit_CircuitPython_APDS9960`](https://github.com/adafruit/Adafruit_CircuitPython_APDS9960/pull/39)
 - ⚙️ Open source 3D model and PCB design
   - HP/Agilent/Keysight Test Gear Parts: [`hp-test-gear-parts`](https://github.com/fivesixzero/hp-test-gear-parts)
   - [HP 6060B DC Load](https://www.keysight.com/us/en/product/6060B/300-watt-dc-electronic-load.html) Front Panel Mod: [`hp-6060b-front-binding-post-mod`](https://github.com/fivesixzero/hp-6060b-front-binding-post-mod)
