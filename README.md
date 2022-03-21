@@ -50,6 +50,6 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 
 ## Are you a recruiter?
 
-If so, I am _**`not currently looking for new opportunities`**_.
+If so, I am _**`currently looking for new opportunities`** with a start date **`no earlier than September 1st, 2022`**_.
 
 However, I'm happy to chat and get to know you if you're into that sort of thing.
