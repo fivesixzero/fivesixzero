@@ -51,4 +51,4 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 
 ## Are you a recruiter?
 
-If so, I am _**`currently looking for new opportunities`** with a start date **`no earlier than February 1st, 2023`**_.
+If so, I am _**`currently looking for new opportunities`** with a start date **`no earlier than March 1st, 2023`**_.
