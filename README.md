@@ -5,7 +5,7 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 - 😄 Pronouns: He / Him
 - 🏢 Professional: Full-stack Java development, SaaS applications, microservices
 - 💬 Ask Me About: Photography, repairing electronics, learning all the things
-- 🤔 Fun Fact: Spent almost half a decade as a full-time professional music photographer
+- 🤔 Fun Fact: Spent half a decade as a full-time professional music photographer
 
 ### Currently Learning
 
@@ -51,4 +51,4 @@ I'm `fivesixzero`, a coder, hardware hacker, and maker living in Minneapolis, MN
 
 ## Are you a recruiter?
 
-If so, I am _**`currently looking for new opportunities`** with a start date **`no earlier than March 1st, 2023`**_.
+If so, I am _**`currently open to new opportunities`** with a start date **`no earlier than January 1st, 2026`**_.
